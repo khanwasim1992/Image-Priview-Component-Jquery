@@ -1,0 +1,27 @@
+body{
+	padding : 50px;
+}
+
+.imageUpload{
+    width: 100px;
+    position: relative;
+    height: 100px;
+    overflow: hidden;
+    background: #EDF1F2;
+    text-align: center;
+    display: table;
+}
+
+.imageUpload .imageFile{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.imageUpload input{
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 0;
+    height: 100%;
+}
