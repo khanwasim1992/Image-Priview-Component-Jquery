@@ -15,7 +15,7 @@ Latest Jquery Library project using version v2.2.4
 3.Js file in js folder which conatin jquery code of file display and remove 
 4.You can customize this code according to your need.
 
-###Example
+### Example
 
 1. Initial Component
  
