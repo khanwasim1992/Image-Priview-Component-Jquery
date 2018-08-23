@@ -19,11 +19,11 @@ Latest Jquery Library project using version v2.2.4
 
 1. Initial Component
  
- ![alt text](https://github.com/khanwasim1992/JqueryListSearch-/blob/master/list.PNG)
+ ![alt text](https://raw.githubusercontent.com/khanwasim1992/Image-Priview-Component-Jquery/master/initial.PNG)
  
  2. After Selecting image file 
  
- ![alt text](https://github.com/khanwasim1992/JqueryListSearch-/blob/master/with-search-result.PNG)   
+ ![alt text](https://raw.githubusercontent.com/khanwasim1992/Image-Priview-Component-Jquery/master/imageSelection.PNG)   
 
 
 
